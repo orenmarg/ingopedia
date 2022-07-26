@@ -26,7 +26,7 @@
   * [ZudoKu - intuitive no-math ZK Primer using Sudokus](https://zudoku.xyz/)
   * [Introduction to Zk SNARKS -Decentriq](https://blog.decentriq.com/zk-snarks-primer-part-one/)
   * [Zk blog](http://www.zeroknowledgeblog.com/index.php)
-  * [Zk_primer_1 M.Green](https://blog.cryptographyengineering.com/2014/11/27/-knowledge-proofs-illustrated-primer/)
+  * [Zk_primer_1 M.Green](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
   * [Zk_primer_2 M.Green](https://blog.cryptographyengineering.com/2017/01/21/zero-knowledge-proofs-an-illustrated-primer-part-2/)
   * [Interactive_proofs and Zk](https://medium.com/magicofc/interactive-proofs-and-zero-knowledge-b32f6c8d66c3)
   * [Zk - proofs with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
